@@ -1,6 +1,3 @@
-I see the issue! The markdown isn't properly formatted with line breaks and proper syntax. Here's the correctly formatted version:
-
-```markdown
 # Rentli 📱
 
 **Empowering College Students Through Peer-to-Peer Rentals**
