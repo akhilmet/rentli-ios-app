@@ -304,7 +304,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Currently piloting at:
 
-- State University (as shown in user profiles)
+- University of Maryland
 - Expanding to additional campuses
 
 Interested in bringing Rentli to your campus? Contact us at partnerships@rentli.app
